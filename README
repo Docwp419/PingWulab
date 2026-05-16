@@ -63,6 +63,7 @@ Notes
 This model is intended as a mechanistic simulation framework for studying spatial subclonal diversification and branched evolution in HNSCC. It is not designed to reconstruct the exact evolutionary history of a specific patient tumor, but to explore how mutation, spatial constraint, competition, migration, and transient mutational acceleration may jointly shape tumor evolutionary architecture.
 
 
+
 Citation
 If using or adapting this code, please cite the associated manuscript:
 Branched evolution and macroevolution-like transitions shape head and neck squamous cell carcinoma across space and stage.
